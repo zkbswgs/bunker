@@ -13,43 +13,21 @@
 
     
     <properties>
-        <ark4web.version>1.0-SNAPSHOT</ark4web.version>
+        <bunker.version>1.0-SNAPSHOT</bunker.version>
     </properties>
 
 
     <dependencies>
         <dependency>
-            <groupId>com.ark4web</groupId>
-            <artifactId>api</artifactId>
-            <version>${ark4web.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>com.ark4web</groupId>
-            <artifactId>biz</artifactId>
-            <version>${ark4web.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>com.ark4web</groupId>
-            <artifactId>dal</artifactId>
-            <version>${ark4web.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>com.ark4web</groupId>
+            <groupId>com.michaelh0226</groupId>
             <artifactId>core</artifactId>
-            <version>${ark4web.version}</version>
+            <version>${bunker.version}</version>
         </dependency>
         <dependency>
-            <groupId>com.ark4web</groupId>
+            <groupId>com.michaelh0226</groupId>
             <artifactId>bunker</artifactId>
-            <version>${ark4web.version}</version>
+            <version>${bunker.version}</version>
         </dependency>
-        <dependency>
-            <groupId>com.ark4web</groupId>
-            <artifactId>sal</artifactId>
-            <version>${ark4web.version}</version>
-        </dependency>
-
-
     </dependencies>
 
 
