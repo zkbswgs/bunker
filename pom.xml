@@ -4,15 +4,11 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.ark4web</groupId>
-    <artifactId>trade_bootstrap</artifactId>
+    <groupId>com.michaelh0226</groupId>
+    <artifactId>bunker</artifactId>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>api</module>
-        <module>dal</module>
         <module>web</module>
-        <module>biz</module>
-        <module>sal</module>
         <module>bunker</module>
         <module>core</module>
     </modules>
