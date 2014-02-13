@@ -1,7 +1,8 @@
-/*.iml
-/.classpath
-/.idea
-/.project
-/.settings
+*.iml
+.classpath
+.idea
+.project
+.settings
 /bin
 *.iml
+*.log
